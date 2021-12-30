@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qiankl
-- 📫 Reach me through danielqian5456@gmail.com
+- 📫 Reach me at danielqian5456@gmail.com
 
 <!---
 qiankl/qiankl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
